@@ -15,5 +15,3 @@
 🎓 IT Systems Development graduate | Becoming a production-ready developer 
 
 🤝 Open to internships, remote freelance gigs, and collaborative projects  
-
-📫 Reach me on [LinkedIn](www.linkedin.com/in/nathi-tshabalala-dev) .
