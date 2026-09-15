@@ -6,7 +6,7 @@
 
 🔧 Building projects with React, Express, Node.js, and MongoDB (local + Atlas)  
 
-📊 Current project: Eight Women (MERN)   
+📊 Current project: Unbroken Solutions v2   
 
 🌱 Expanding skills in backend integration, API design, and Git workflows  
 
