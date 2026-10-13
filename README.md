@@ -18,7 +18,7 @@ I'm particularly interested in the space between **software, infrastructure, sys
 
 * React & JavaScript
 * Node.js & Express
-* Java & Spring Boot
+* Java 
 * REST APIs
 * MongoDB
 * Git & GitHub
